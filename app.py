@@ -43,3 +43,4 @@ if uploaded_file:
     col2.image(uploaded_file, caption="No Background", use_column_width=True)
     col3.image(uploaded_file, caption="Green Mask", use_column_width=True)
     col4.image(uploaded_file, caption="Diseased Mask", use_column_width=True)
+
